@@ -24,9 +24,30 @@
 * **Referências Utilizadas:** https://github.com/talesmasoero/smart-attendance.git
 
 ## 4. Definição de Usuários e Atividades
-
-* **Personas Criadas:**
-    1.  Nome, idade, ocupação, objetivos, limitações
+####  Persona 1: O Professor Ocupado
+* **Nome:** Dr. Eduardo Silva
+* **Idade:** 48 anos
+* **Ocupação:** Professor Universitário (Engenharia de Software)
+* **Objetivos:**
+    * Maximizar o tempo de conteúdo em aula.
+    * Ter um registro de presença confiável e instantâneo.
+    * Evitar interrupções no raciocínio.
+* **Limitações do Sistema Manual Atual:**
+    * **Alto consumo de tempo:** Perde de 5 a 10 minutos por aula lendo a lista.
+    * **Fricção na aula:** A interrupção quebra o fluxo e o raciocínio.
+    * **Fraude e erros:** Sujeito a alunos que respondem por colegas e a erros de marcação.
+#### Persona 2: O Aluno Pontual
+* **Nome:** Ana Clara Mendes
+* **Idade:** 21 anos
+* **Ocupação:** Estudante Universitária (Quinto Período)
+* **Objetivos:**
+    * Ter sua presença registrada de forma rápida e precisa.
+    * Aproveitar cada minuto da aula, absorvendo o máximo de conteúdo.
+    * Evitar ser interrompida em suas anotações.
+* **Limitações do Sistema Manual Atual:**
+    * **Perda de conteúdo:** A chamada no início da aula pode fazer com que perca o contexto inicial.
+    * **Risco de falha:** Pode não ouvir seu nome a tempo e levar uma falta injusta.
+    * **Processo Tedioso:** Considera o processo de "presente, presente" repetitivo e desnecessário.
 * **Atividades Planejadas:**
     1. 
     2. 
