@@ -15,10 +15,13 @@
 
 ## 3. Pesquisa e Análise de Requisitos
 
-* **Método de Pesquisa Utilizado:** (entrevistas, questionários, análise de softwares similares)
+* **Método de Pesquisa Utilizado:** Entrevista
 * **Principais Necessidades Identificadas:**
-* **Expectativas do Usuário:**
-* **Referências Utilizadas:**
+  - Novo sistema de chamada automatizado
+  - Garantir a veracidade da presença
+  - Melhorar o tempo de qualidade de aula
+* **Expectativas do Usuário:** Chamadas mais velozes e dados mais precisos sobre a presença
+* **Referências Utilizadas:** https://github.com/talesmasoero/smart-attendance.git
 
 ## 4. Definição de Usuários e Atividades
 
