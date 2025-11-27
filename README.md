@@ -49,9 +49,9 @@
     * **Risco de falha:** Pode não ouvir seu nome a tempo e levar uma falta injusta.
     * **Processo Tedioso:** Considera o processo de "presente, presente" repetitivo e desnecessário.
 * **Atividades Planejadas:**
-    1. 
-    2. 
-    3. 
+    1. Análise de Dados
+    2. Teste de usabilidade
+    3. Teste de acessibilidade
 
 ## 5. Wireframes e Validação UX
 
