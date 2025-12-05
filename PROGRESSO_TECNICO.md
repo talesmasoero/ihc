@@ -1,14 +1,14 @@
 # Relatório de Progresso Técnico
 
 ## 1. Resumo Executivo
-O projeto começou com o pé direito, aproximadamente em julho o objetivo foi consolidado, porém logo nas semanas seguintes houveram conflitos entre a equipe e os professores orientadores do projeto, oque artasou significativamente o andamento do projeto. 
+O projeto começou com o pé direito aproximadamente em julho, quando o objetivo foi consolidado, porém logo nas semanas seguintes houveram conflitos entre a equipe e os professores orientadores do projeto, o que artasou significativamente o andamento do projeto. 
 
-Mas após um hiato nas entregas a equipe foi se recuperando aos poucos, e por fim conseguimos entregar o era esperado pela professora de Projeto Integrador I"
+Mas após um hiato nas entregas a equipe se recuperando aos poucos, e por fim conseguimos entregar o era esperado pela professora de Projeto Integrador I.
 
 ---
 
 ## 2. Objetivos do Período
-* Dashbord com os dados coletados (Entregue).
+* Dashboard com os dados coletados (Entregue).
 * Testes de usabilidade e acessibilidade (Entregue).
 * Protótipo funcional do sistema (Entregue).
 
@@ -16,8 +16,8 @@ Mas após um hiato nas entregas a equipe foi se recuperando aos poucos, e por fi
 
 ## 3. Atividades Concluídas
 * Coleta de dados.
-* Protótipação do sistema.
-* Avalicação da interface e modificação de acordo com feedback.
+* Protótipo do sistema.
+* Avaliação da interface e ajustes com base nos feedbacks.
 * Reuniões com stakeholders.
 
 ---
@@ -25,44 +25,44 @@ Mas após um hiato nas entregas a equipe foi se recuperando aos poucos, e por fi
 ## 4. Atividades em Andamento
 
  **Validação da interface com profissionais de IHC:**
-  **Status (30%):**  
-  **Observações:** Terá efeito em PI 2
+  **Status (30%)**  
+  **Observações:** Os resultados impactarão a etapa de PI II.
 
- **Entrega da documentação**
-  **Status (100%):** 
-  **Observações:** Quando este arquivo for enviado, a entrega estará 100% concluida.
+ **Entrega da documentação:**
+  **Status (100%)**  
+  **Observações:** A entrega estará oficialmente concluída com o envio deste arquivo.
 
 ---
 
 ## 5. Atividades Planejadas para o Próximo Período
 * Aperfeiçoamento da interface.
-* Aperfeiçoamento do código base.
-* Deploy funcional do sistema para iniciar testes em dispositivos móveis.
+* Aperfeiçoamento do código-base.
+* Deploy funcional do sistema para testes em dispositivos móveis.
 
 ---
 
 ## 6. Possíveis Problemas, Riscos e Mitigações a serem tomadas
 
-**Interface com baixa responsividade:**
+**Baixa responsividade da interface:**
   **Impacto:** Médio 
-  **Mitigação/Plano:** Reformulação do código para trazer melhor usabilidade e acessibilidade.
-
+  **Mitigação/Plano:** Refatoração do código e melhorias de usabilidade/acessibilidade.
+  
 **Instituição rejeitar completamente o projeto:** 
   **Impacto:** Muito Alto  
-  **Mitigação/Plano:** Encontrar outros stakeholders (instituição de ensino) para acatar o projeto.
+  **Mitigação/Plano:** Buscar novos stakeholders (outras instituições de ensino) interessados em adotar o sistema.
 
 ---
 
 ## 7. Dependências Críticas
-*Boa pontuação em testes de acessibilidade.
-*Manter o baixo custo e mão de obra barata para a instituição.
+* Manter boa pontuação nos testes de acessibilidade.
+* Garantir baixo custo de implementação e baixo impacto operacional para a instituição.
 
 ---
 
 ## 8. Métricas de Progresso por período
 - **% de tarefas concluídas no 1 período:** 99%  
 - **% total do projeto concluído:** 30%  
-- **Desvios de prazo:** Poucos, majoritariamente no início do semestre devido a conflito na comunicação aluno - orientador.
+- **Desvios de prazo:** Poucos, majoritariamente no início do semestre devido a falhas na comunicação entre aluno e orientador.
 
 - - **% de tarefas concluídas no 2 período:** _______%  
 - **% total do projeto concluído:** _______%  
@@ -79,16 +79,16 @@ Mas após um hiato nas entregas a equipe foi se recuperando aos poucos, e por fi
 ---
 
 ## 9. Alterações no Escopo
-*Atualmente nenhuma significativa
+* Nenhuma alteração significativa no momento.
 
 ---
 
 ## 10. Considerações Finais
-*Após um momento difícil consguimos nos recuperar e alinhar o projéto com o que foi requisitado, e conseguimos o interesse de pessoas de extrema importância para garantir a vida do projeto. 
+* Após um período difícil, conseguimos nos reorganizar e realinhar o projeto às expectativas iniciais. O interesse de pessoas influentes reforça a continuidade e relevância do trabalho, trazendo perspectivas positivas para a próxima fase.
 
 ---
 
 ## 11. Status Geral do Projeto
 Selecione uma opção:
 
-🟢 **No prazo / Dentro do planejado e inclusive foi dado início ao que será a próxima etapa do projeto**  
+🟢 **No prazo / Dentro do planejado, com início antecipado das atividades referentes à próxima etapa do projeto.**  
