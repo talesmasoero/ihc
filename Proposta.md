@@ -3,7 +3,7 @@
 
 O cenário atual da chamada manual no ambiente universitário apresenta um **gargalo operacional síncrono**, com os seguintes impactos negativos:
 
-* **Desperdício de Tempo:** O professor gasta em média 10 a 20 minutos por sessão realizando a chamada nominal, reduzindo o tempo de exposição de conteúdo.
+* **Desperdício de Tempo:** O professor gasta em média 5 a 10 minutos por sessão realizando a chamada nominal, reduzindo o tempo de exposição de conteúdo.
 * **Vulnerabilidade à Fraude:** O sistema é suscetível ao "Buddy Punching" (registro de presença pelo colega) no modelo oral.
 * **Interrupção Pedagógica:** A pausa no meio ou início da aula quebra o fluxo cognitivo de alunos e professores.
 
