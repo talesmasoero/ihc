@@ -1,3 +1,8 @@
-[Apresentação final resumida em slides:](https://www.canva.com/design/DAG6mIKFkM0/T-azJWNLl6FG4LXYlUF0yQ/view?utm_content=DAG6mIKFkM0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h74c286c790)
+Apresentação final resumida em slides:
 
-[Apresentação final completa em docx:](https://docs.google.com/document/d/1TPKnyE-NNA9vqeC2PnzS6_ggMT4gKaOt-RmmBP-3dzM/edit?usp=sharing)
+[https://www.canva.com/design/DAG6mIKFkM0/T-azJWNLl6FG4LXYlUF0yQ/view?utm_content=DAG6mIKFkM0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h74c286c790](https://www.canva.com/design/DAG6mIKFkM0/T-azJWNLl6FG4LXYlUF0yQ/view?utm_content=DAG6mIKFkM0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h74c286c790)
+
+
+Apresentação final completa em docx:
+
+[https://docs.google.com/document/d/1TPKnyE-NNA9vqeC2PnzS6_ggMT4gKaOt-RmmBP-3dzM/edit?usp=sharing](https://docs.google.com/document/d/1TPKnyE-NNA9vqeC2PnzS6_ggMT4gKaOt-RmmBP-3dzM/edit?usp=sharing)
