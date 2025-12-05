@@ -3,7 +3,7 @@
 ## 1. Resumo Executivo
 O projeto começou com o pé direito aproximadamente em julho, quando o objetivo foi consolidado, porém logo nas semanas seguintes houveram conflitos entre a equipe e os professores orientadores do projeto, o que artasou significativamente o andamento do projeto. 
 
-Mas após um hiato nas entregas a equipe se recuperando aos poucos, e por fim conseguimos entregar o era esperado pela professora de Projeto Integrador I.
+Mas após um período de hiato, o grupo conseguiu retomar o ritmo gradualmente e, ao final, entregamos o que era esperado para a disciplina de Projeto Integrador I.
 
 ---
 
