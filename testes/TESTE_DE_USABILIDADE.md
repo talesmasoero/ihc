@@ -1,12 +1,6 @@
 #  TESTE DE USABILIDADE DO PROTÓTIPO – SISTEMA DE PRESENÇA POR QR CODE (PI1)
 
-Avaliação da facilidade de uso dos fluxos:
-
-**Professor → Geração de QR Code** 
-
-e
-
-**Aluno → Validação da presença**
+Avaliação da facilidade de uso do fluxo **Professor → Geração de QR Code** e **Aluno → Validação da presença**.
 
 ---
 
