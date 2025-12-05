@@ -8,83 +8,87 @@ Mas após um hiato nas entregas a equipe foi se recuperando aos poucos, e por fi
 ---
 
 ## 2. Objetivos do Período
-O que deveria ter sido entregue neste intervalo.
-- ____________________________________________  
-- ____________________________________________  
-- ____________________________________________  
+* Dashbord com os dados coletados (Entregue).
+* Testes de usabilidade e acessibilidade (Entregue).
+* Protótipo funcional do sistema (Entregue).
 
 ---
 
 ## 3. Atividades Concluídas
-Liste tudo que foi finalizado tecnicamente.
-- ____________________________________________  
-- ____________________________________________  
-- ____________________________________________  
+* Coleta de dados.
+* Protótipação do sistema.
+* Avalicação da interface e modificação de acordo com feedback.
+* Reuniões com stakeholders.
 
 ---
 
 ## 4. Atividades em Andamento
-O que está sendo feito atualmente e o status.
 
-- **Tarefa:** ____________________________________  
-  **Status (0–100%):** ______  
-  **Observações:** ____________________________________________
+ **Validação da interface com profissionais de IHC:**
+  **Status (30%):**  
+  **Observações:** Terá efeito em PI 2
 
-- **Tarefa:** ____________________________________  
-  **Status (0–100%):** ______  
-  **Observações:** ____________________________________________
-
-- **Tarefa:** ____________________________________  
-  **Status (0–100%):** ______  
-  **Observações:** ____________________________________________
+ **Entrega da documentação**
+  **Status (100%):** 
+  **Observações:** Quando este arquivo for enviado, a entrega estará 100% concluida.
 
 ---
 
 ## 5. Atividades Planejadas para o Próximo Período
-- ____________________________________________  
-- ____________________________________________  
-- ____________________________________________
+* Aperfeiçoamento da interface.
+* Aperfeiçoamento do código base.
+* Deploy funcional do sistema para iniciar testes em dispositivos móveis.
 
 ---
 
-## 6. Problemas, Riscos e Mitigações
+## 6. Possíveis Problemas, Riscos e Mitigações a serem tomadas
 
-- **Problema/Risco:** ______________________________  
-  **Impacto:** Baixo / Médio / Alto  
-  **Mitigação/Plano:** _______________________________________
+**Interface com baixa responsividade:**
+  **Impacto:** Médio 
+  **Mitigação/Plano:** Reformulação do código para trazer melhor usabilidade e acessibilidade.
 
-- **Problema/Risco:** ______________________________  
-  **Impacto:** Baixo / Médio / Alto  
-  **Mitigação/Plano:** _______________________________________
+**Instituição rejeitar completamente o projeto:** 
+  **Impacto:** Muito Alto  
+  **Mitigação/Plano:** Encontrar outros stakeholders (instituição de ensino) para acatar o projeto.
 
 ---
 
 ## 7. Dependências Críticas
-- ____________________________________________  
-- ____________________________________________  
+*Boa pontuação em testes de acessibilidade.
+*Manter o baixo custo e mão de obra barata para a instituição.
 
 ---
 
-## 8. Métricas de Progresso
-- **% de tarefas concluídas no período:** _______%  
+## 8. Métricas de Progresso por período
+- **% de tarefas concluídas no 1 período:** 99%  
+- **% total do projeto concluído:** 30%  
+- **Desvios de prazo:** Poucos, majoritariamente no início do semestre devido a conflito na comunicação aluno - orientador.
+
+- - **% de tarefas concluídas no 2 período:** _______%  
+- **% total do projeto concluído:** _______%  
+- **Desvios de prazo:** __________________________________________
+
+- - **% de tarefas concluídas no 3 período:** _______%  
+- **% total do projeto concluído:** _______%  
+- **Desvios de prazo:** __________________________________________
+
+- - **% de tarefas concluídas no 4 período:** _______%  
 - **% total do projeto concluído:** _______%  
 - **Desvios de prazo:** __________________________________________  
 
 ---
 
 ## 9. Alterações no Escopo
-- ____________________________________________  
+*Atualmente nenhuma significativa
 
 ---
 
 ## 10. Considerações Finais
-- ____________________________________________  
+*Após um momento difícil consguimos nos recuperar e alinhar o projéto com o que foi requisitado, e conseguimos o interesse de pessoas de extrema importância para garantir a vida do projeto. 
 
 ---
 
 ## 11. Status Geral do Projeto
 Selecione uma opção:
 
-- 🟢 **No prazo / Dentro do planejado**  
-- 🟡 **Com pequenos atrasos / Risco moderado**  
-- 🔴 **Atrasado / Risco alto / Precisa de intervenção**
+🟢 **No prazo / Dentro do planejado e inclusive foi dado início ao que será a próxima etapa do projeto**  
