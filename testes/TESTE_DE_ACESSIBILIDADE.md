@@ -48,7 +48,7 @@ Medições de:
 | Participante | Idade | Dispositivo | Condição | Experiência |
 |--------------|-------|-------------|----------|-------------|
 | Marcos       | 29    | Notebook    | Daltonismo (Deuteranopia) | Alta |
-| Helena       | 34    | Smartphone  | Baixa visão (usa zoom 150%) | Moderada |
+| Helena       | 74    | Desktop  | Baixa visão (usa zoom 150%) | Moderada |
 
 ---
 
@@ -89,12 +89,12 @@ Medições de:
 
 ---
 
-### 2. Helena (34 anos, visão reduzida — Smartphone)
+### 2. Helena (74 anos, visão reduzida — Smartphone)
 
 **Tela do Professor**
-- Com zoom de acessibilidade, o botão “Parar Geração” ficou desproporcional.  
+- Com zoom de acessibilidade, o QR Code ficou desproporcional.  
 - O QR Code perdeu parte da margem, prejudicando a leitura.  
-- O texto “Código: 484936” ficou pequeno.  
+- O texto “Código: 484936” ficou normal.  
 
 **Tela do Aluno**
 - Botões roxos ficaram muito compridos horizontalmente, prejudicando hierarquia.  
