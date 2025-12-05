@@ -1,87 +1,53 @@
-# Projeto Final - Interface Humano-Computador (IHC) 2025_2
+#  Smart Attendance – Sistema Inteligente de Controle de Frequência
 
-## 1. Identificação do Projeto
+## 1. Visão Geral do Projeto
 
-* **Nome do Projeto:** Smart Attendance
-* **Integrantes:** Carlos Alberto, Gabriel Rezende, Júlia Coelho, Pedro Antonio, Ricardo Moraes, Tales Masoero e Wagner Moreira
-* **Data de Início:** 07/11/2025
-* **Data de Entrega:**
+O **Smart Attendance** é um projeto estratégico de Ciência da Computação, estruturado ao longo dos Projetos Integradores, com o objetivo final de desenvolver e implementar um Sistema Automatizado de Controle de Frequência totalmente integrado ao ambiente universitário.
 
-## 2. Tema e Público-Alvo
+A missão principal do projeto é provar, através de Data Analytics rigorosa, que o processo tradicional de chamada manual é insustentável em termos de desperdício de tempo letivo e vulnerabilidade a fraudes.
 
-* **Domínio de Aplicação:** Educação (Sistema de Chamada Inteligente)
-* **Descrição do Público-Alvo:** Alunos e professores do CEUB
-* **Justificativa da Escolha:** Mesmo projeto da disciplina de Projeto Integrador
+A entrega final do projeto será um sistema robusto e seguro que:
 
-## 3. Pesquisa e Análise de Requisitos
+Substitui integralmente a chamada nominal, utilizando QR Code dinâmico e Tokens temporais para registro de presença.
 
-* **Método de Pesquisa Utilizado:** Entrevista
-* **Principais Necessidades Identificadas:**
-  - Novo sistema de chamada automatizado
-  - Garantir a veracidade da presença
-  - Melhorar o tempo de qualidade de aula
-* **Expectativas do Usuário:** Chamadas mais velozes e dados mais precisos sobre a presença
-* **Referências Utilizadas:** https://github.com/talesmasoero/smart-attendance.git
+Oferece integração com os sistemas de gestão acadêmica da instituição (via API, em fases futuras).
 
-## 4. Definição de Usuários e Atividades
-####  Persona 1: O Professor Ocupado
-* **Nome:** Dr. Eduardo Silva
-* **Idade:** 48 anos
-* **Ocupação:** Professor Universitário (Engenharia de Software)
-* **Objetivos:**
-    * Maximizar o tempo de conteúdo em aula.
-    * Ter um registro de presença confiável e instantâneo.
-    * Evitar interrupções no raciocínio.
-* **Limitações do Sistema Manual Atual:**
-    * **Alto consumo de tempo:** Perde de 5 a 10 minutos por aula lendo a lista.
-    * **Fricção na aula:** A interrupção quebra o fluxo e o raciocínio.
-    * **Fraude e erros:** Sujeito a alunos que respondem por colegas e a erros de marcação.
-#### Persona 2: O Aluno Pontual
-* **Nome:** Ana Clara Mendes
-* **Idade:** 21 anos
-* **Ocupação:** Estudante Universitária (Quinto Período)
-* **Objetivos:**
-    * Ter sua presença registrada de forma rápida e precisa.
-    * Aproveitar cada minuto da aula, absorvendo o máximo de conteúdo.
-    * Evitar ser interrompida em suas anotações.
-* **Limitações do Sistema Manual Atual:**
-    * **Perda de conteúdo:** A chamada no início da aula pode fazer com que perca o contexto inicial.
-    * **Risco de falha:** Pode não ouvir seu nome a tempo e levar uma falta injusta.
-    * **Processo Tedioso:** Considera o processo de "presente, presente" repetitivo e desnecessário.
-* **Atividades Planejadas:**
-    1. Análise de Dados
-    2. Teste de usabilidade
-    3. Teste de acessibilidade
+Fornece Dashboards analíticos em tempo real para a Coordenação, transformando dados brutos de presença em insights acionáveis para gestão acadêmica.
 
-## 5. Wireframes e Validação UX
+O Projeto Integrador I (PI-1) serve como a fase crítica de Validação da Tese e desenvolvimento do MVP analítico.
 
-* **Ferramenta Utilizada para Wireframes:**
-* **Screenshots ou links dos wireframes:**
-* **Método de Validação:** (ex: walkthrough, card sorting)
-* **Feedback Recebido:**
-* **Ajustes Realizados:**
+---
 
-## 6. Implementação Técnica
+## 2. O Problema: Ineficiência do Modelo Tradicional
 
-* **Tecnologias Utilizadas:** HTML, CSS, JavaScript
-* **Design Responsivo:** Sim / Não
-* **Link do Protótipo Funcional:**
-* **Principais Funcionalidades Implementadas:**
+O cenário atual da chamada manual no ambiente universitário apresenta um **gargalo operacional síncrono**, com os seguintes impactos negativos:
 
-## 7. Integração e Testes
+* **Desperdício de Tempo:** O professor gasta em média 10 a 20 minutos por sessão realizando a chamada nominal, reduzindo o tempo de exposição de conteúdo.
+* **Vulnerabilidade à Fraude:** O sistema é suscetível ao "Buddy Punching" (registro de presença pelo colega) no modelo oral.
+* **Interrupção Pedagógica:** A pausa no meio ou início da aula quebra o fluxo cognitivo de alunos e professores.
 
-* **Integração HTML/CSS/JS:**
-    * Descrição da estrutura e organização do código
-* **Testes de Usabilidade:**
-    * Métodos aplicados e resultados
-* **Testes de Acessibilidade:**
-    * Ferramentas utilizadas
-    * Resultados e ajustes realizados
+A tese do projeto é que **reformular o processo manual é ineficaz**; a solução requer a adoção de um processo paralelo e automatizado.
 
-## 8. Documentação Final
+---
 
-* **Resumo das Decisões de Design:**
-* **Dificuldades Encontradas e Soluções:**
-* **Considerações Finais:**
-* **Declaração de Autoria:**
-    * Declaramos que este projeto foi desenvolvido integralmente pelo grupo, sem plágio ou uso indevido de conteúdo de terceiros.
+## 3. A Solução Proposta 
+
+O Produto Mínimo Viável (MVP) do Smart Attendance para a fase de PI-1 foca na **prova de conceito analítica** e na **simulação do fluxo de uso**.
+
+### 3.1. Arquitetura Conceitual
+O sistema utiliza um modelo de **registro distribuído e seguro**, onde o professor abre a chamada, e o aluno a registra em seu dispositivo móvel, em paralelo, utilizando um dos seguintes métodos de validação:
+
+* **QR Code Dinâmico:** Código visual escaneável.
+* **Token Alfanumérico Temporal:** Código de 6 dígitos que se atualiza a cada 10/20 segundos, mitigando a fraude por compartilhamento remoto.
+
+### 3.2. Entregáveis Principais do MVP
+
+1.  **Dashboard de Análise de Dados:**
+    * **Finalidade:** Comprovar a tese do projeto.
+    * **Conteúdo:** Visualização de KPIs que comparam o **Tempo Médio Gasto** e a **Percepção de Fraude** entre o método Manual e o Smart Attendance.
+
+2.  **Protótipo Funcional Básico (Front-end):**
+    * **Finalidade:** Simular a experiência de uso.
+    * **Fluxo:** Tela inicial com escolha de perfil (Professor/Aluno) → Painel do Professor (Geração de QR Code/Token rotativo simulado) → Painel do Aluno (Interface para leitura do QR Code ou inserção do Token).
+
+---
