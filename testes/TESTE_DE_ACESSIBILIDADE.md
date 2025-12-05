@@ -157,7 +157,6 @@ As telas são simples, porém apresentam problemas:
 
 ### Tecnologias Assistivas
 - Incluir aria-labels  
-- Descrição alternativa do QR Code  
 - Melhor adaptação ao zoom  
 
 ---
