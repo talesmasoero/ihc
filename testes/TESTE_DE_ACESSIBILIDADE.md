@@ -1,4 +1,4 @@
-# TESTE DE ACESSIBILIDADE — SISTEMA DE PRESENÇA POR QR CODE (PI1)
+# TESTE DE ACESSIBILIDADE — SISTEMA DE PRESENÇA POR QR CODE
 
 Avaliação da acessibilidade das telas de Professor (Geração de QR Code / Código) e Aluno (Validação via QR Code ou Código).
 
